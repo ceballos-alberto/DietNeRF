@@ -1,11 +1,8 @@
-torch>=1.7.1
-torchvision>=0.2.1
 imageio
 imageio-ffmpeg
 matplotlib
-numpy
 configargparse
-tensorboard==1.14.0
+tensorboard
 tqdm
 opencv-python
 ftfy
@@ -14,6 +11,6 @@ regex
 timm
 fire
 lpips
-scikit-image>=0.12.0,<0.18
+scikit-image
 gdown
 ray
